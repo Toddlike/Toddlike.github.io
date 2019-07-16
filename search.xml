@@ -4,6 +4,64 @@
   
     
     <entry>
+      <title>Electricity and Magnetism</title>
+      <link href="/2019/07/15/Magnetism/"/>
+      <url>/2019/07/15/Magnetism/</url>
+      
+        <content type="html"><![CDATA[<h1 id="What-holds-our-world-together"><a href="#What-holds-our-world-together" class="headerlink" title="What holds our world together?"></a>What holds our world together?</h1><p>As most of us had be crystal clear on this fact that the world is made up of atoms, the question we are actually asking is what is holding those atoms together. </p><a id="more"></a><p>Well, what is holding them together are the nuclear forces, which we do not fully understand. So in other words, on nuclear scale $10^{-14}$ meters, very important are the nuclear forces; on an atomic scale up to thousands of kilmeters, it’s really electric forces that hold our world together. But on much larger scale, planets and the galaxy, it is gravity that holds our world together.</p><h2 id="Positive-and-negative-charges"><a href="#Positive-and-negative-charges" class="headerlink" title="Positive and negative charges"></a>Positive and negative charges</h2><h3 id="The-brief-history"><a href="#The-brief-history" class="headerlink" title="The brief history"></a>The brief history</h3><p>Already in 600 hundred BC, it was known that if you rub amber that it can attract pieces of dry leaves. And the Greek word for amber is electron, so that’s where electricity got its name from. </p><p>In the 16 centuries there were more substances known to do this. For instance glass and sulfur. It was also konwn and written that when people were bored at parties that the women would rub their amber jewelry and would touch frogs which then would start jumping of desperation, which people considered to be fun, not understanding what was actually happening to the amber nor what was happening to the frogs.</p><p>In the 18 centuries it was discovered that there are two types of electricity:</p><p>One if you rub glass and another if you rub rubber or amber for that matter, due to Benjamin Frankin without any knowledge of electrons and protonsw who introduced the idea that all substances are penetrated with what he called electric fluid, electric fire. And he stated it if you get too much of the fire the you’re positively charged and if you have a deficiency of that fire the you’re negatively charged.</p><p>He introduced the sign convention and he decided that if you rub glass that is an excess of fire and be called that therefore positive. (You will see later why this choice, he had fifty percent chance, is extremely unfortunate but we have to live with it.)</p><p><strong>You cannot create charge, if you create plus then automatically create mius.</strong></p><p><strong>Plus and plus repel each other, minus and minus repel each other. And plus and minus attract.</strong></p><h2 id="Forces-Coulomb’s-law"><a href="#Forces-Coulomb’s-law" class="headerlink" title="Forces-Coulomb’s law"></a>Forces-Coulomb’s law</h2><p>If we take two charges and we use in general for charge the symbol Q.  And Coulomb, the French physicist, who did a lot of research on this in the 18th~19th centuries actually. </p><p>In the SI units we will use for the unit of charge the coulomb named after this great man.  <strong>One coulomb charge is a horrendous amount if charge!</strong> More than you ever see in your life time.</p><p> So let’s see  the  Coulombs’s Law, the force on charge number two due to one :</p><blockquote><p>$$\vec{F_{1,2}}=\frac{KQ_1Q_2}{r^2}\hat{r}_{1,2}$$ </p><p>And the coulomb’s constant $K$ in SI units is  $9\times10^9 $  $ N·m^2/c^2$,  (for historical reasons, the $K$ is also equals $\frac{1}{4\pi\epsilon_0}$,  this $\epsilon_0$ called the permittivity of free space), the $\hat{r}_{1,2}$ is the unit vector from 1 to 2.</p></blockquote><p> The charge of one proton, which is exactly the same as the charge of one electron, is approximately $1.6\times 10^{-19}$ C.</p><h3 id="The-Coulomb-Force-and-the-Gravity"><a href="#The-Coulomb-Force-and-the-Gravity" class="headerlink" title="The Coulomb Force and the Gravity"></a>The Coulomb Force and the Gravity</h3><h4 id="Compare-them-by-computing"><a href="#Compare-them-by-computing" class="headerlink" title="Compare them by computing"></a>Compare them by computing</h4><p>Notice that there is a clear parallel with gravity.</p><p>Newton’s law of gravity:</p><blockquote><p>$$\vec{F}<em>{1,2}= - \frac{GM_1M_2}{r^2}\hat{r}</em>{1,2}$$</p><p>$G=6.67259\times 10^{-11}$ $ N·m²/kg²$ is the gravitational constant.</p></blockquote><p>Comparing electricity with gravity,  you’ll see that electric forces are way more powerful than gravitational forces</p><p>Let’s caculate the magnitude of the forces by taking two protons, which are seperated by a distance $d$.</p><blockquote><p>$F_{e}=\frac{KQQ}{d^2}=\frac{9 \times 10^9 \times (1.6\times 10^{-19})^2}{d^2}$</p><p>$F_g=\frac{Gmm}{d^2}=\frac{6.67 \times 10^{-11}\times(1.7\times 10^{-27})^2}{d^2}$</p><p>$\frac{F_e}{F_g}\approx36$</p></blockquote><p>So the electric force is 36 orders of magnitude more potent than the gravitational attraction! </p><h4 id="The-nuclear-forces"><a href="#The-nuclear-forces" class="headerlink" title="The nuclear forces"></a>The nuclear forces</h4><p>The nucleus has a size of about $10^{-14}$ meters, and the atom itself is about ten thousand times larger. The cloud of electrons which is about $10^{-10}$ meters.</p><p>Let’s think about $a_p=\frac{F_{electricity}}{M_P}$</p><p>If you make $d=10^{-14} $  $m^2$, and you calculate the ratio you will find it is 26 orders of magnitude higher than the graviton acceleration on the earth. So you wonder what the hell holds the nucleus together. If there is such a tremendous force on these protons.  Well thats nuclear forces, which we do not fully understand yet.</p><h2 id="The-Polarizations"><a href="#The-Polarizations" class="headerlink" title="The Polarizations"></a>The Polarizations</h2><p>Conductors have a small fraction of their electrons which are not bound to atoms but which we can freely move around in the conductor. That’s a characteristic for a conductor, for metals.  While that’s not the case with nonconductors there the all electrons are fixed to individual atoms.</p><p>The electrons want to be attracted by positive charges. When you use a conductor approaching positive charges, some of (very subtle) these electrons will move to the closer side to  the positive charges. Then the closer side is negative and the other side is positive. This process we call induction. It’s sort of a polarization. And by the way, in the nonconductors’ cases, the things described above are still the same, but much more subtle.</p><p><font color="#00008B"><strong>Keywords of this article : Electric charges , Forces-Coulomb’s law and Polarizations</strong></font></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Physics </tag>
+            
+            <tag> 电磁学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>$\LaTeX$学习</title>
+      <link href="/2019/07/15/LaTeX-Learning-md/"/>
+      <url>/2019/07/15/LaTeX-Learning-md/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World !</title>
       <link href="/2019/05/26/hello-world/"/>
       <url>/2019/05/26/hello-world/</url>
