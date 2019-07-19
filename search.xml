@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Electricity and  Magnetism</title>
+      <link href="/2019/07/19/Magnetism/"/>
+      <url>/2019/07/19/Magnetism/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Electric-Field"><a href="#Electric-Field" class="headerlink" title="Electric Field"></a>Electric Field</h1><fancybox><p><img src="https://img.vim-cn.com/a5/7e362fb01e879bf03775701484cd7622ad8adb.jpg" alt></p></fancybox><a id="more"></a><h2 id="The-concept"><a href="#The-concept" class="headerlink" title="The concept"></a>The concept</h2><p>Suppose we have a charge $Q$ at a particular location and at another location $p$ have another test charge $q$. And there is a seperation bewteen the two which is $r$.</p><p>Now we can introduce the idea of electric field for which we write the symbol capital $E$.</p><blockquote><p>$$\vec{E_p}=\frac{\vec{F}}{q},\quad \vec{F_p}=\frac{kQq}{r^2}\hat{r}$$</p><p>$$\vec{E_p}=\frac{kQ}{r^2}\hat{r}$$</p></blockquote><p>Electric field  (strength) $E$ is a vector. By convention, we say the $E$ is away from $Q$ if $Q$ is positive, if $Q$ is negative, the force is in the other direction, and therefore $E$ is in the other direction.</p><p>And here is the key that the force in location $p$ depends on the test charge $q$  while electric field does not. The electric field is a representation for what happens around the charge plus $Q_+$.</p><h3 id="The-graphical-representations"><a href="#The-graphical-representations" class="headerlink" title="The graphical representations"></a>The graphical representations</h3><p>Here is an example of a charge $+3$ and charge $-1$.</p><fancybox><p><img src="https://img.vim-cn.com/1b/b7ae9057a4182f68aff5aee185ab2d7304d408.jpg" alt></p></fancybox><h3 id="The-superposition-principle-of-Q-i"><a href="#The-superposition-principle-of-Q-i" class="headerlink" title="The superposition principle of $Q_i$"></a>The superposition principle of $Q_i$</h3><p>if we have several charges, the $E=\sum\limits_{i}E_{i}$</p><fancybox><p><img src="https://img.vim-cn.com/8a/e21b5a6dfbf5ef02af1b96cceacad53e31fdfa.jpg" alt></p></fancybox><p>Is it obvious that superposition principle work? No. Does it works? Yes! How do we know it works? Because it’s consistent with all our experimental results. So we take the superposition principle for granted and that is acceptable.</p><h2 id="The-electric-field-lines"><a href="#The-electric-field-lines" class="headerlink" title="The electric field lines"></a>The electric field lines</h2><p>The electric field lines are something imagined, but it shows some information of the electric field $E$ . Every tangent direction of the point which lies in the electric field demonstrate the direction of the force. And the number of  lines show the electric strength of this area. The more, the stronger.</p><h2 id="The-charge-configuration"><a href="#The-charge-configuration" class="headerlink" title="The charge configuration"></a>The charge configuration</h2><p>The force in the electric field is always like this $\vec{F}=q\vec{E}$. Doesn’t matter the $q$ is positive, then the same direction as $E$. If it is negative it will be the opposite direction as $E$. If $q$ is large, then the force will be large, and if it is small, then the force will be small.</p><p>So the real secret behind the concept of an $E$ field is that you bring any charge at that location and you know what force acts at that point on that charge.</p><p>Let’s see these two charges that one is $+3$ and the other is $-1$. If you put a test charge ,here we suppose it is positive, very close to the negative charge, then the force is oriented to the negative charge. It’s attractive force due to the effect of the two charges. </p><p>But when you move that test charge very far away from the two charges, the situation changes.  It’s equivalent to a single $+2$ charges. The force turn out to be a  repulsion, which fall off at a speed of $r^2$, one over distance  square.  And in other cases which we can demonstrate, one postive charge and one negative charge fall off at a speed of $r^3$, one over the distance cubed.</p><fancybox><p><img src="https://img.vim-cn.com/34/900b530965664c17af977464d39c515dd6a220.jpg" alt></p></fancybox><p>You can sort of think as these field lines if you want to imagine the configuration that the plus charges blow out air like a hairdryer, and that the minus suck in air like a vacuum cleaner.</p><h2 id="The-induction-and-the-dipole"><a href="#The-induction-and-the-dipole" class="headerlink" title="The induction and the dipole"></a>The induction and the dipole</h2><fancybox><p><img src="https://img.vim-cn.com/8a/430179e411824a1421ad897f8a9f6514326bc5.jpg" alt><br></p></fancybox><p></p><p>When we put a negatively charged rod nearly around two contacted metal balls, the electrons want to go away, so the right side ball will be negatively charged and at the same time the left side will be automatically postively charged. So when we seperate the two metal balls by insulated ways, the two balls become a dipole when we take them apart.</p><p><font color="#00008B"><strong>Keywords of this article : Electric field ,the charge configuration, and the dipole</strong></font></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Physics </tag>
+            
+            <tag> 电磁学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Electricity and Magnetism</title>
       <link href="/2019/07/15/Magnetism/"/>
       <url>/2019/07/15/Magnetism/</url>
